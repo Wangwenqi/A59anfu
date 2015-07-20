@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>语文</string>
+		<key>teacherName</key>
+		<string>东方不败</string>
+		<key>time</key>
+		<integer>60</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>数学</string>
+		<key>teacherName</key>
+		<string>西门吹雪</string>
+		<key>time</key>
+		<integer>80</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>英语</string>
+		<key>teacherName</key>
+		<string>南宫无极</string>
+		<key>time</key>
+		<integer>40</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>理科综合</string>
+		<key>teacherName</key>
+		<string>北辰天</string>
+		<key>time</key>
+		<integer>60</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>文科综合</string>
+		<key>teacherName</key>
+		<string>轩辕</string>
+		<key>time</key>
+		<integer>70</integer>
+	</dict>
+</array>
+</plist>
